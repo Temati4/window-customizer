@@ -8,7 +8,7 @@
   <a href="#"><img src="https://img.shields.io/badge/.NET-9.0%2B-purple?logo=dotnet" alt=".NET 9.0"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"></a>
   <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-  <a href="https://github.com/yourusername/window-customizer/releases"><img src="https://img.shields.io/github/v/release/Temati4/window-customizer?label=Последний%20релиз&style=flat-square&color=0078D4" alt="Latest Release"></a>
+  <a href="https://github.com/Temati4/window-customizer/releases"><img src="https://img.shields.io/github/v/release/Temati4/window-customizer?label=Последний%20релиз&style=flat-square&color=0078D4" alt="Latest Release"></a>
 </p>
 
 ---
